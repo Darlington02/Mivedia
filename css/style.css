@@ -1,0 +1,47 @@
+/* HEADER */
+.div {
+	background-image: url('https://wallpaperaccess.com/full/3353905.jpg');
+	height: 70vh;
+}
+
+.nav-link {
+	font-weight: 700;
+	font-size: 20px;
+}
+
+.shadow {
+	background-color: rgba(0, 0, 0, 0.8);
+	height: 70vh;
+}
+
+.header-text{
+	display: block;
+	color: white;
+	margin-top: 40px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+/* Headers */
+.heading-text{
+	color: black;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.section-title::after {
+	content: "";
+	width: 120px;
+	height: 1px;
+	display: inline-block;
+	background: black;
+	margin: 4px 10px;
+  }
+
+/* About us */
+.about_us{
+	background-color: whitesmoke;
+}
+
+/* Menu */
+.menu{
+	background-color: gainsboro;
